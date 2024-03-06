@@ -91,8 +91,8 @@ export const Experience = () => {
           curvePoints[5].y + 2,
           curvePoints[5].z - 2
         ),
-        title: "A Escolha",
-        subtitle: `Mais tarde percebi que trabalhar com desenvolvimento web para aplicar em meus negócios seria melhor a longo prazo, e ao longo do tempo como empreendedor programando pra mim, aprendi tanto design em softwares adobe juntamente com marketing, media manager e tráfego de público(leads) para produtos e serviços para implementar em meus projetos de programador web e crescer meu negócio online.
+        title: "Desafio",
+        subtitle: `Busco o desafio de crescer profissionalmente enquanto contribuo para projetos inovadores. Gosto de aprender, evoluir e inovar em obstáculos contornando e facilitando problemas, acho que hoje em dia estou pronto como dev junior.
         `,
       },
     ];
